@@ -1,4 +1,4 @@
-<img src="https://github.com/ByteTimes/FilterRules/raw/Rules/Images/Color/Qure_Logo.png" width="727" height="100" alt="ForOwnUse"/><br/>
+<img src="https://github.com/ByteTimes/FilterRules/raw/Rules/Images/Color/Qure_Logo.png" width="582" height="80" alt="ForOwnUse"/><br/>
 
 
 # ByteTimes.github.io
